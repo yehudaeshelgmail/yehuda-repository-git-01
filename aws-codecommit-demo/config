@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/yehudaeshel/yehudaeshel_repository_01
+	fetch = +refs/*:refs/*
+	mirror = true
